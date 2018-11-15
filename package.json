@@ -1,0 +1,25 @@
+{
+  "name": "theater",
+  "version": "1.0.0",
+  "description": "theater api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/C3NZ/theater.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/C3NZ/theater/issues"
+  },
+  "homepage": "https://github.com/C3NZ/theater#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "mongodb": "^3.1.9"
+  }
+}

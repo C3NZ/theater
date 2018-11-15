@@ -9,4 +9,3 @@
 /theaters/:theaterId/sessions
 /theaters/:theaterId/sessions/:sessionId
 /theaters/:theaterId/sessions/:sessionId/reserve
-/cart
